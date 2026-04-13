@@ -1,0 +1,12 @@
+name: 25-auto-targeting
+channels:
+- conda-forge
+dependencies:
+- scikit-learn
+- pandas
+- numpy
+- ipykernel
+- matplotlib
+- tqdm
+- scipy
+- seaborn
